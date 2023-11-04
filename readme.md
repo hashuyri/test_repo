@@ -1,6 +1,7 @@
 <!-- readme.md -->
 
 # test
+今日はgitとGitHubについて学んだ。
 
 ## chapter01
 
